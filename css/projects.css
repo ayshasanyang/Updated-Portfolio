@@ -21,6 +21,9 @@ hr.home {
     margin: 4px 2px;
     cursor: pointer;
   }
+  a:link {
+   text-decoration: none;
+  }
 .project {
     position: relative;
 }
@@ -111,7 +114,6 @@ hr.home {
     margin-bottom: 0px;
     padding: 0px 8px;
     margin-top: 2px;
-    text-transform: capitalize;
     background: rgba(255, 255, 255, 0.9);
     color: #2f3238;
     -webkit-transform: translateX(-150px);

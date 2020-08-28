@@ -61,4 +61,11 @@
     });
   
   })(jQuery); // End of use strict
+
+  // Project descriptions
+  $(".p-planner").append("This app keep track of daily activities, user can add and delete events. The app changes background color for different hours of the day using moment js.");
+  $(".p-quiz").append("User will have to enter their name on the start page click on the start button, that will take them to quiz page. Use the next question button to load the next question. If user click on wrong answer timer deduct some minutes from the time.");
+  $(".p-finder").append("Weather or Not was created to provide users with an easy tool to discover and locate local state parks, and plan the perfect time to go with weather forecast.");
+  $(".p-weather").append("This Weather App allows the user to search by city name and shows the current weather condition, and 5 day forecast. The app also stores recent search history in a local storage.");
+  $(".p-generator").append("Password genarator creates random or customized passwords for users. It helps users create stronger passwords that provide them with greater security.");
   
