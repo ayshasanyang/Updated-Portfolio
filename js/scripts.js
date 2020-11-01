@@ -68,6 +68,5 @@
   $(".p-burger").append("This is a restaurant app that lets users input the names of burgers they'd like to eat, then the burger will be displayed in the menu list on the left side of the page, waiting to be devoured. The app was created with MySQL, node.js, and handlebars. The application follows the MVC design pattern.");
   $(".p-note").append("This is a note-taking application that helps users to keep track of their activity. The app can add, delete, and save notes.");
   $(".p-employee").append("Employee Tracker is a node.js application that uses MySQL Workbench. This application manages all employees working in a company with different departments and roles. This app can add, view, and update information. This app was developed using Node, Inquirer prompts, and MySQL.");
-  $(".p-weather").append("This Weather App allows the user to search by city name and shows the current weather condition, and 5 day forecast. The app also stores recent search history in a local storage.");
-  $(".p-generator").append("Password genarator creates random or customized passwords for users. It helps users create stronger passwords that provide them with greater security.");
+  $(".p-generator").append("This is a Node CLI that takes employees information and generates a HTML file.");
   
