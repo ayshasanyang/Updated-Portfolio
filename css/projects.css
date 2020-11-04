@@ -9,6 +9,11 @@ hr.home {
     width: 200px;
 }
 
+p.solid{
+    border-style: solid;
+    width: 150px;
+}
+
 .button {
     background-color: #e7e7e7; 
     border: none;
